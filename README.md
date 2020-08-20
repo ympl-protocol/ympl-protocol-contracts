@@ -22,4 +22,4 @@ This will deploy all contracts and set all owner to the deployer, also config al
 
 ## License
 
-[GNU General Public License v3.0 (c) 2018 Fragments, Inc.](./LICENSE)
+[GNU General Public License v3.0 (c) 2020 Fragments, Inc.](./LICENSE)
